@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FA52C88-B070-412D-A7F4-C2A641488C90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24FA60B6-C531-4A80-A0C5-C84606148021}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RazorViewComponents", "src\RazorViewComponents\RazorViewComponents.xproj", "{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBFD957A-C55E-47DA-B1B8-47FFE2097DA1} = {3FA52C88-B070-412D-A7F4-C2A641488C90}
+	EndGlobalSection
+EndGlobal
