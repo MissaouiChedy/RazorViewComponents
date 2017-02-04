@@ -1,5 +1,5 @@
 # RazorViewComponents
-Full code for the "[ASP.net Core View Components](http://blog.techdominator.com/article/asp.net-core-view-components.html)" post on the TechDominator Blog.
+Full code for the "[ASP.net Core View Components](http://blog.techdominator.com/article/render-partials-with-asp.net-core-view-components.html)" post on the TechDominator Blog.
 
 #Guidelines
 
